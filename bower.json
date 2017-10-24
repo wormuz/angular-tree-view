@@ -1,0 +1,8 @@
+{
+  "name": "angular-tree-view",
+  "version": "1.0",
+  "main": [
+    "./js/treeView.js",
+    "./css/style.css"
+  ]
+}
